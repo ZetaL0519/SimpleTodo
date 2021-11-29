@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+1. I had trouble getting the emulator to work, and I looked it up on stackoverflow and wiped data on AVD manager.
+2. Some given codes are outdated and I had to make some changes to fix.
 
 ## License
 
